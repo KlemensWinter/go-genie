@@ -7,7 +7,7 @@ import (
 	"testing"
 	"testing/iotest"
 
-	"github.com/KlemensWinter/go-genie/palette"
+	"gopkg.in/KlemensWinter/go-genie.v1/palette"
 
 	"github.com/stretchr/testify/assert"
 )

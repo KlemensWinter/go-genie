@@ -5,7 +5,7 @@ import (
 	"io/fs"
 	"time"
 
-	"github.com/KlemensWinter/go-genie/drs"
+	"gopkg.in/KlemensWinter/go-genie.v1/drs"
 )
 
 type (

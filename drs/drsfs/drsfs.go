@@ -7,7 +7,7 @@ import (
 	"log"
 	"path"
 
-	"github.com/KlemensWinter/go-genie/drs"
+	"gopkg.in/KlemensWinter/go-genie.v1/drs"
 )
 
 type FS struct {
